@@ -12,7 +12,7 @@ public class TetrisData {
 	}
 	public int getAt(int x, int y) {
 		if(x < 0 || x >= ROW || y < 0 || y >= COL) 
-			return 0; 
+			return 0; dsfdsnfdkljdfsjkdsfjksdfjdsfjkldfs
 		return data[x][y]; 
 	}
 	public void setAt(int x, int y, int v) {
